@@ -15,7 +15,7 @@ Installation
 
 Clone this repository:
 
-    git clone git://github.com/hakobera/nvmw.git "%HOMEDRIVE%%HOMEPATH%\.nvmw"
+    git clone git://github.com/mengyilingjian/nvmw.git "%HOMEDRIVE%%HOMEPATH%\.nvmw"
 
 To activate nvmw, add nvmw directory to your PATH environment variable
 
@@ -69,18 +69,14 @@ nvmw install iojs
 nvmw install iojs-v1.0.2
 ```
 
-FAQ
+MORE HELP
 ---
-
-### Q. Node.exe download faild caused 'Input Error: There is no script engine for file extension ".js"'
-
-Maybe you associated ".js" file to another app, not JScript engine. To fix, see [here](http://www.winhelponline.com/articles/230/1/Error-There-is-no-script-engine-for-file-extension-when-running-js-files.html)
+Please click [https://blog.csdn.net/weixin_42661321/article/details/87887263]
 
 LICENSE
 -------
-(The MIT License)
 
-Copyright (c) 2011 Kazuyuki Honda <hakobera@gmail.com>
+Copyright (c) 2019 Eric-zhou <mengyilingjian@outlook.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
